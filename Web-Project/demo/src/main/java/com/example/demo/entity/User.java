@@ -19,6 +19,7 @@ public class User  {
 	private String pwd;
 	private String fname;
 	private String lname;
+	
 
     public Long getId() {
 		return id;
@@ -51,6 +52,6 @@ public class User  {
 		this.lname = lname;
 	}
 
-    // Constructor, Getters and Setters
+    
 }
 
